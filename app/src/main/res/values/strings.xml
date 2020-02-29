@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project1_Inspiration_Board</string>
+
+    <string name="capture_image">Capture</string>
+    <string name="title">Enter Title</string>
+    <string name="description">Enter Description</string>
+    <string name="category">Categories: Landscape, costume, props, hair, makeup </string>
+    <string name="tags">Enter Tags</string>
+    <string name="save">Save</string>
+    <string name="delete_place_message">Delete %1$s?</string>
+    <string name="delete_dialog_title">Delete Place</string>
+
+</resources>
